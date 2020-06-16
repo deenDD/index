@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>test1</title>
+</head>
+<body>
+  <container>
+    <header class="header">
+      <div class="h-navbox">
+        <ul class="h-menu">
+          <li class="h-list "><a class="h-link " href="">About</a></li>
+          <li class="h-list"><a class="h-link" href="">Works</a></li>
+          <li class="h-list"><a class="h-link" href="">Blog</a></li>
+          <li class="h-list"><a class="h-link" href="">Contact</a></li>
+        </ul>
+        
+        </div>
+      
+
+      </div>
+    </header>
+    <main class="main about-main">
+      <div class="m-tittle-a">about</div>
+      <div class="m-history">東京にてフリーランスのWeb制作をしております。<br>
+        2017年より独学でライティング・web制作・プログラミングを学ぶ<br>
+        2019年から1年間東京都内のWeb制作の広告代理などの業務を行う。<br>
+        2020年よりフリーランスへ転向。</div>
+      <div class="m-profilebox-a" >
+        <img class="profile-image" src="imgs/IMG_6209.JPEG" alt="">
+        <table class="t-table">
+          <tr>
+            <th>所在地：</th><td>UNDERLINE 東京都内</td>
+          <tr>
+            <th>お問い合わせ：</th><td>deen@free.com</td>
+          <tr>
+            <th>事業内容：</th><td>Web制作におけるディレクション、デザイン、HTML・CSSコーディング、スマートフォンサイト、CMS導入等</td>
+          <tr>
+            <th>Deen：</th><td>ディーン</td>
+          <tr>
+            <th>twitter：</th><td>@DEEN_un</td>
+         
+        </table>
+      </div>
+      <div class="m-linup"><a href="#"><i class="fas fa-angle-double-up fa-2x my-color"></i></a></div>
+    </main>
+    
+    <footer class="footer">
+      <div class="f-navbox">
+        <ul class="f-menu">
+          <li class="f-list"><a class="f-link" href="">About</a></li>
+          <li class="f-list"><a class="f-link" href="">Works</a></li>
+          <li class="f-list"><a class="f-link" href="">Blog</a></li>
+          <li class="f-list"><a class="f-link" href="">Contact</a></li>
+        </ul>
+        <div class="f-rights">© UNDERLINE All rights reserved.</div>
+      </div>
+    
+
+    </div></footer>
+
+  </container>
+</body>
+</html>
