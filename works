@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>test1</title>
+</head>
+<body>
+  <container>
+    <header class="header">
+      <div class="h-navbox">
+        <ul class="h-menu">
+          <li class="h-list "><a class="h-link " href="">About</a></li>
+          <li class="h-list"><a class="h-link" href="">Works</a></li>
+          <li class="h-list"><a class="h-link" href="">Blog</a></li>
+          <li class="h-list"><a class="h-link" href="">Contact</a></li>
+        </ul>
+        
+        </div>
+      
+
+      </div>
+    </header>
+    <main class="main about-main">
+      <div class="m-tittle-a">works</div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk1.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk2.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk3.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk4.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk5.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      <div class="m-workbox">
+        <img class="m-workimage" src="imgs/wk6.png" alt="">
+        <div class ="m-tetxbox">
+          
+          <p><a href="#">A Green </a></p>
+          <p>Planning / Design / HTML,CSS / WordPress /</p>
+          <p>木や草、花の植物の香りで、オリジナルの香りを制作デザインしているA Green様のWebサイトを制作させていただきました。プランニングからデザイン、コーディング、WordPressを担当させていただきました。</p>
+        </div>
+      </div>
+      
+
+     
+      <div class="m-linup"><a href="#"><i class="fas fa-angle-double-up fa-2x my-color"></i></a></div>
+    </main>
+    
+    <footer class="footer">
+      <div class="f-navbox">
+        <ul class="f-menu">
+          <li class="f-list"><a class="f-link" href="">About</a></li>
+          <li class="f-list"><a class="f-link" href="">Works</a></li>
+          <li class="f-list"><a class="f-link" href="">Blog</a></li>
+          <li class="f-list"><a class="f-link" href="">Contact</a></li>
+        </ul>
+        <div class="f-rights">© UNDERLINE All rights reserved.</div>
+      </div>
+    
+
+    </div></footer>
+
+  </container>
+</body>
+</html>
