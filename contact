@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>test1</title>
+</head>
+<body>
+  <container>
+    <header class="header">
+      <div class="h-navbox">
+        <ul class="h-menu">
+          <li class="h-list "><a class="h-link " href="">About</a></li>
+          <li class="h-list"><a class="h-link" href="">Works</a></li>
+          <li class="h-list"><a class="h-link" href="">Blog</a></li>
+          <li class="h-list"><a class="h-link" href="">Contact</a></li>
+        </ul>
+        
+        </div>
+      
+
+      </div>
+    </header>
+    <main class="main about-main">
+      <div class="m-tittle-a">contact</div>
+      <div class="m-history">制作の依頼・ご相談などお気軽にお問い合わせくださいませ。<br>
+        下記フォームよりわかる範囲でご記入ください。必須の項目は必ずご記入お願いします。</div>
+
+     <form class="form-3-contact" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSeDam2tAefsIBllTZNCKBbkiQuAL2TNP2fTfsEkjQZ60abyLA/formResponse" method="post">
+      <label for="kishya">貴社名：</label>
+      <input id="kishya" type="text" name="entry.401790004">
+      <label for="youname">名前：<span>必須</span></label>
+      <input id="youname" type="text" name="entry.248842960">
+      <label for="mail">メール：<span>必須</span></label>
+      <input id="mail" type="email" name="entry.1310876800">
+      <label for="younumber">電話番号：<span>必須</span></label>
+      <input id="younumber" type="number" name="entry.1415501717">
+      
+      <label for="comment">お問い合わせ内容<span>必須</span></label>
+      <textarea id="comment" name="entry.254130523"></textarea>
+      <div class="btn-area">
+        <input type="submit" value="内容を送信する">
+      </div>
+     </form>
+      </div>
+      <div class="m-linup"><a href="#"><i class="fas fa-angle-double-up fa-2x my-color"></i></a></div>
+    </main>
+    
+    <footer class="footer">
+      <div class="f-navbox">
+        <ul class="f-menu">
+          <li class="f-list"><a class="f-link" href="">About</a></li>
+          <li class="f-list"><a class="f-link" href="">Works</a></li>
+          <li class="f-list"><a class="f-link" href="">Blog</a></li>
+          <li class="f-list"><a class="f-link" href="">Contact</a></li>
+        </ul>
+        <div class="f-rights">© UNDERLINE All rights reserved.</div>
+      </div>
+    
+
+    </div></footer>
+
+  </container>
+</body>
+</html>
