@@ -146,11 +146,12 @@ overflow: hidden;
 .f-menu{
   text-align: center;
  color: #eee;
+ 
 }
 
 
 .f-list{
- 
+ display: inline;
   list-style: none;
   font-size: 14px;
   color: #eee;
