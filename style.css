@@ -94,6 +94,17 @@ overflow: hidden;
   margin: 10px;
 
 }
+.m-imagebox-100{
+  width: 100%;
+  height: auto;
+
+
+  padding: 5px 5px 0 5px;
+  box-shadow: 2px 2px 4px gray;
+  text-align: center;
+  margin: 10px;
+
+}
 .m-image{
   width: 100%;
   height: 200px;
