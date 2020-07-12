@@ -151,11 +151,11 @@ overflow: hidden;
 
 
 .f-list{
- display: inline;
+ display: inline-block;
   list-style: none;
   font-size: 14px;
   color: #eee;
-  margin: 10px 20px;
+  margin: 10px 15px;
 }
 .f-link{
   color: #eee;
