@@ -153,9 +153,9 @@ overflow: hidden;
 .f-list{
  display: inline-block;
   list-style: none;
-  font-size: 14px;
+  font-size: 13px;
   color: #eee;
-  margin: 10px 15px;
+  margin: 10px 10px;
 }
 .f-link{
   color: #eee;
